@@ -1,0 +1,1855 @@
+﻿stdID,mid-term,final,faculty,department
+std1,60,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std2,34,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std3,25,75,EĞİTİM FAKÜLTESİ,Bilgisayar ve Öğretim Teknolojileri Öğretmenliği
+std4,50,66,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std5,50,66,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std6,88,72,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std7,45,37,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std8,52,50,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std9,20,20,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std10,70,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık (İÖ)
+std11,20,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std12,46,59,FEN EDEBİYAT FAKÜLTESİ,Arkeoloji
+std13,56,57,FEN EDEBİYAT FAKÜLTESİ,Arkeoloji
+std14,61,71,FEN EDEBİYAT FAKÜLTESİ,Arkeoloji
+std15,76,80,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std16,65,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std17,95,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std18,100,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std19,10,40,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std20,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std21,75,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std22,70,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std23,75,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std24,100,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std25,70,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std26,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std27,100,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std28,52,57,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std29,80,65,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std30,68,80,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std31,60,60,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std32,59,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std33,34,44,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std34,72,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std35,34,52,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std36,22,36,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std37,69,60,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std38,34,18,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std39,55,80,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std40,40,74,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std41,80,70,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std42,84,56,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std43,52,50,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std44,48,75,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std45,68,46,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std46,76,80,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std47,45,40,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std48,35,75,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std49,55,45,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std50,70,50,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std51,50,45,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std52,75,60,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std53,50,66,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std54,30,25,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std55,30,80,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std56,50,66,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std57,40,55,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std58,30,30,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std59,85,60,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std60,30,45,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std61,30,30,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std62,40,30,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std63,35,40,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık (İÖ)
+std64,25,40,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std65,75,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std66,56,68,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std67,68,92,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std68,58,71,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std69,39,60,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std70,67,80,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std71,79,74,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std72,70,65,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std73,59,66,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std74,74,71,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std75,53,67,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std76,44,56,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std77,58,69,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std78,58,66,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std79,37,63,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std80,50,70,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std81,27,49,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std82,59,71,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std83,64,57,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std84,44,65,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std85,52,68,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std86,37,74,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std87,73,68,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std88,58,75,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std89,49,67,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std90,49,60,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std91,53,62,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std92,37,37,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std93,51,77,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std94,41,62,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std95,36,69,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std96,50,69,FEN EDEBİYAT FAKÜLTESİ,Arkeoloji
+std97,65,56,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std98,77,55,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std99,50,81,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std100,46,71,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std101,56,63,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std102,56,68,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std103,68,72,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std104,57,65,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std105,64,83,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std106,58,67,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std107,55,63,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std108,61,70,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std109,56,68,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std110,64,71,FEN EDEBİYAT FAKÜLTESİ,Felsefe
+std111,60,67,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std112,76,58,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std113,64,71,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std114,61,55,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std115,33,56,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std116,37,46,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std117,56,86,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std118,62,63,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std119,63,74,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std120,54,72,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std121,84,76,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std122,64,64,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std123,90,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std124,10,40,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std125,40,20,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std126,10,28,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std127,45,70,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std128,30,32,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std129,75,70,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std130,65,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std131,55,66,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std132,50,70,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std133,80,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std134,90,88,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std135,100,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std136,80,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std137,75,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std138,100,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std139,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std140,85,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std141,90,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std142,90,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std143,100,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std144,100,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std145,85,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std146,85,44,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std147,85,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std148,70,54,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std149,100,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std150,45,84,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std151,65,65,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std152,55,65,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std153,10,94,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std154,100,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std155,100,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std156,60,60,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std157,45,70,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std158,56,63,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std159,80,90,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std160,66,61,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std161,47,30,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std162,19,21,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std163,55,42,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std164,46,10,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std165,43,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std166,54,65,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std167,68,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std168,71,52,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std169,72,53,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std170,55,76,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std171,55,42,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std172,40,36,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std173,43,79,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std174,49,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std175,72,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std176,56,50,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std177,44,44,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std178,80,90,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std179,44,70,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std180,52,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std181,45,48,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std182,70,70,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std183,85,75,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std184,75,80,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std185,50,66,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std186,45,70,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std187,50,66,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std188,50,66,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std189,60,85,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std190,65,75,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std191,40,50,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std192,25,55,EĞİTİM FAKÜLTESİ,Fen Bilgisi Öğretmenliği
+std193,90,85,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std194,85,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std195,77,90,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std196,85,85,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std197,55,63,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std198,75,95,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std199,60,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std200,70,80,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std201,50,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std202,80,65,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std203,60,60,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std204,80,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std205,60,65,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std206,55,65,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std207,85,90,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std208,50,66,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std209,75,80,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std210,65,65,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std211,65,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std212,65,70,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std213,65,90,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std214,75,70,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std215,55,70,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std216,80,70,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std217,65,80,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std218,55,63,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std219,60,80,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std220,85,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std221,60,70,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std222,65,85,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std223,75,55,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std224,75,90,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std225,80,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std226,80,85,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std227,80,80,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std228,80,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std229,75,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std230,80,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std231,55,63,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std232,50,66,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std233,65,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std234,75,65,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std235,60,60,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std236,55,65,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std237,60,60,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std238,65,75,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std239,80,65,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std240,80,60,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std241,60,60,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std242,30,55,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std243,30,40,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std244,30,80,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std245,68,70,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std246,50,66,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std247,85,65,EĞİTİM FAKÜLTESİ,İlköğretim Matematik Öğretmenliği
+std248,96,100,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std249,92,100,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std250,88,68,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std251,76,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std252,64,68,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std253,100,96,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std254,98,84,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std255,92,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std256,98,88,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std257,76,76,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std258,92,72,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std259,72,80,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std260,92,80,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std261,80,96,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std262,96,84,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std263,60,88,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std264,68,84,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std265,80,56,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std266,76,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std267,76,88,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std268,88,80,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std269,98,72,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std270,64,76,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std271,80,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std272,80,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std273,88,96,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std274,68,68,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std275,92,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std276,98,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std277,88,84,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std278,96,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std279,72,72,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std280,96,86,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std281,94,76,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std282,94,96,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std283,76,80,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std284,94,88,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std285,88,96,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std286,88,98,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std287,94,96,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std288,84,84,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std289,94,80,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std290,88,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std291,90,84,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std292,98,76,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std293,94,88,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std294,88,84,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std295,88,96,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std296,88,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std297,88,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std298,88,78,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std299,84,92,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std300,92,93,EĞİTİM FAKÜLTESİ,Sosyal Bilgiler Öğretmenliği
+std301,80,75,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std302,70,50,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std303,50,67,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std304,55,45,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std305,70,70,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std306,50,75,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std307,65,85,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std308,65,60,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std309,80,60,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std310,50,67,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std311,70,53,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std312,45,65,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std313,50,75,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std314,75,75,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std315,65,70,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std316,65,56,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std317,75,70,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std318,60,60,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std319,70,55,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std320,60,70,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std321,45,45,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std322,75,50,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std323,70,55,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std324,65,65,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std325,45,45,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std326,60,55,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std327,80,70,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std328,75,80,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std329,60,65,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std330,50,55,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std331,60,51,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std332,40,65,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std333,70,40,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std334,70,65,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std335,70,50,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std336,60,55,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std337,70,45,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std338,65,65,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std339,60,40,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std340,65,65,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std341,80,45,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std342,45,50,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std343,70,75,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std344,65,60,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std345,60,75,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std346,60,85,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std347,80,70,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std348,25,55,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std349,40,40,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std350,65,60,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std351,65,55,EĞİTİM FAKÜLTESİ,Türkçe Öğretmenliği
+std352,85,80,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std353,75,60,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std354,40,85,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std355,55,65,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std356,50,66,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std357,60,80,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std358,90,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std359,90,85,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std360,65,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std361,80,65,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std362,55,63,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std363,55,65,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std364,70,80,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std365,80,65,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std366,60,60,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std367,45,55,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std368,80,75,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std369,80,85,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std370,71,55,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std371,60,60,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std372,35,76,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std373,55,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std374,80,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std375,75,85,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std376,60,75,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std377,75,65,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std378,70,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std379,80,55,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std380,75,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std381,65,56,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std382,80,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std383,75,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std384,60,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std385,55,63,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std386,80,65,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std387,80,65,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std388,63,65,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std389,80,65,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std390,80,60,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std391,90,75,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std392,55,63,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std393,30,80,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std394,50,30,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std395,40,35,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std396,45,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std397,70,80,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std398,80,70,EĞİTİM FAKÜLTESİ,Okul Öncesi Öğretmenliği
+std399,75,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std400,60,60,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std401,65,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std402,85,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std403,75,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std404,70,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std405,85,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std406,50,60,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std407,66,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std408,70,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std409,95,60,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std410,80,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std411,60,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std412,80,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std413,50,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std414,50,66,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std415,65,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std416,61,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std417,65,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std418,50,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std419,70,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std420,55,90,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std421,55,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std422,90,65,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std423,80,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std424,80,55,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std425,75,80,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std426,75,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std427,70,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std428,85,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std429,50,66,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std430,80,60,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std431,60,65,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std432,75,80,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std433,80,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std434,75,55,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std435,95,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std436,75,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std437,56,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std438,65,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std439,85,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std440,65,95,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std441,95,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std442,45,62,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std443,85,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std444,65,56,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std445,85,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std446,55,63,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std447,100,85,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std448,50,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std449,90,65,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std450,55,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std451,60,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std452,40,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std453,45,62,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std454,70,65,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std455,70,80,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std456,80,80,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std457,70,80,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std458,80,60,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std459,60,52,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std460,65,80,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std461,65,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std462,46,75,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std463,56,63,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std464,55,55,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std465,71,65,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std466,58,70,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std467,51,60,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std468,40,65,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std469,45,30,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std470,65,60,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std471,40,74,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std472,30,35,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std473,70,55,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std474,50,66,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std475,56,63,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std476,65,45,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std477,60,52,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std478,30,30,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std479,30,30,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std480,75,60,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std481,30,30,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std482,30,30,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std483,30,45,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std484,30,45,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std485,30,30,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std486,90,65,EĞİTİM FAKÜLTESİ,Rehberlik ve Psikolojik Danışmanlık
+std487,85,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std488,70,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std489,75,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std490,80,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std491,85,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std492,60,65,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std493,80,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std494,90,85,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std495,90,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std496,78,65,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std497,60,65,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std498,60,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std499,80,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std500,60,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std501,50,85,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std502,50,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std503,90,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std504,75,65,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std505,90,65,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std506,65,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std507,75,50,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std508,75,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std509,95,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std510,75,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std511,75,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std512,60,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std513,45,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std514,65,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std515,85,55,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std516,80,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std517,65,85,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std518,75,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std519,55,65,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std520,95,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std521,80,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std522,95,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std523,90,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std524,55,63,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std525,50,66,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std526,75,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std527,65,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std528,76,65,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std529,85,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std530,90,85,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std531,90,65,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std532,85,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std533,85,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std534,90,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std535,75,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std536,90,80,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std537,95,85,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std538,85,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std539,85,85,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std540,85,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std541,55,63,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std542,80,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std543,80,70,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std544,65,75,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std545,40,50,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std546,30,30,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std547,70,55,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std548,50,66,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std549,30,30,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std550,25,35,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std551,70,55,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std552,85,60,EĞİTİM FAKÜLTESİ,Sınıf Öğretmenliği
+std553,74,83,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std554,70,72,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std555,86,89,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std556,60,69,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std557,63,75,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std558,54,60,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std559,58,66,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std560,72,75,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std561,73,80,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std562,53,77,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std563,65,74,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std564,68,78,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std565,82,86,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std566,74,98,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std567,56,64,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std568,70,71,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std569,85,72,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std570,67,75,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std571,42,49,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std572,73,84,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std573,68,66,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std574,70,84,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std575,68,93,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std576,64,77,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std577,73,86,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std578,74,72,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std579,77,74,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std580,53,68,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std581,82,68,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std582,70,83,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std583,82,83,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std584,69,75,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std585,57,90,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std586,46,81,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std587,67,83,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std588,79,92,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std589,88,75,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std590,59,62,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std591,73,81,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std592,70,78,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std593,68,84,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std594,30,63,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std595,70,86,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std596,45,78,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std597,64,71,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std598,76,92,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std599,59,80,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std600,51,68,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std601,48,55,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std602,49,80,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std603,51,74,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std604,62,52,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std605,54,60,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std606,62,75,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std607,48,55,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std608,57,70,FEN EDEBİYAT FAKÜLTESİ,Moleküler Biyoloji ve Genetik
+std609,88,79,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std610,45,74,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std611,67,70,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std612,73,79,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std613,82,70,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std614,54,64,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std615,60,70,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std616,73,77,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std617,88,48,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std618,46,24,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std619,82,67,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std620,70,68,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std621,60,86,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std622,74,54,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std623,40,82,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std624,57,67,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std625,67,62,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std626,76,67,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std627,68,57,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std628,65,65,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std629,79,76,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std630,52,67,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std631,70,79,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std632,70,61,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std633,60,62,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std634,80,68,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std635,70,67,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std636,45,56,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std637,82,88,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std638,58,76,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std639,71,74,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std640,82,73,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std641,33,71,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std642,79,77,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std643,85,82,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std644,82,82,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std645,36,27,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std646,59,68,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std647,76,76,FEN EDEBİYAT FAKÜLTESİ,Matematik
+std648,70,77,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std649,67,78,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std650,68,74,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std651,41,83,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std652,70,57,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std653,42,66,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std654,70,68,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std655,53,77,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std656,55,84,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std657,56,49,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std658,47,68,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std659,36,78,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std660,53,69,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std661,60,49,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std662,70,83,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std663,59,63,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std664,74,72,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std665,53,63,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std666,77,69,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std667,76,76,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std668,64,65,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std669,62,71,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std670,51,75,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std671,48,77,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std672,58,69,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std673,54,74,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std674,61,68,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std675,40,52,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std676,67,65,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std677,52,86,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std678,62,66,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std679,48,58,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std680,47,62,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std681,64,37,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std682,54,77,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std683,33,66,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std684,79,75,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std685,59,71,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std686,44,62,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std687,60,69,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std688,55,60,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std689,59,69,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std690,68,85,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std691,61,69,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std692,61,74,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std693,55,75,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std694,61,77,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std695,63,74,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std696,64,63,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std697,73,71,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std698,64,86,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std699,70,87,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std700,61,63,FEN EDEBİYAT FAKÜLTESİ,Tarih (İÖ)
+std701,51,66,FEN EDEBİYAT FAKÜLTESİ,Arkeoloji
+std702,40,73,FEN EDEBİYAT FAKÜLTESİ,Arkeoloji
+std703,73,73,FEN EDEBİYAT FAKÜLTESİ,Antropoloji
+std704,55,65,FEN EDEBİYAT FAKÜLTESİ,Antropoloji
+std705,53,80,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std706,54,95,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std707,65,61,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std708,79,83,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std709,59,74,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std710,67,80,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std711,51,68,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std712,61,74,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std713,70,86,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std714,85,86,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std715,64,71,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std716,58,77,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std717,70,59,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std718,64,66,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std719,71,63,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std720,61,74,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std721,70,71,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std722,61,80,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std723,52,74,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std724,61,95,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std725,73,77,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std726,50,77,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std727,61,65,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std728,61,80,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std729,52,89,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std730,50,86,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std731,61,74,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std732,63,71,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std733,64,81,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std734,74,69,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std735,55,66,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std736,70,80,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std737,62,63,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std738,70,87,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std739,64,80,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std740,57,66,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std741,74,74,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std742,48,55,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std743,60,69,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std744,56,78,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std745,62,60,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std746,76,77,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std747,76,83,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std748,68,80,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std749,65,66,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std750,48,72,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std751,53,74,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std752,39,34,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std753,76,77,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std754,67,83,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std755,70,89,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std756,70,77,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std757,70,77,FEN EDEBİYAT FAKÜLTESİ,Coğrafya
+std758,40,74,FEN EDEBİYAT FAKÜLTESİ,Felsefe
+std759,65,75,FEN EDEBİYAT FAKÜLTESİ,Felsefe
+std760,66,90,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std761,60,63,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std762,57,74,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std763,42,58,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std764,63,66,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std765,48,50,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std766,73,81,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std767,27,57,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std768,36,71,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std769,58,68,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std770,39,74,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std771,25,43,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std772,63,59,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std773,79,71,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std774,54,65,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std775,33,49,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std776,61,53,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std777,58,78,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std778,58,65,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std779,59,86,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std780,52,67,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std781,39,74,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std782,58,73,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std783,36,73,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std784,36,67,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std785,85,77,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std786,64,68,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std787,42,57,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std788,53,65,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std789,48,69,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std790,30,50,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std791,48,66,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std792,61,50,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std793,42,72,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std794,73,80,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std795,70,74,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std796,64,75,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std797,45,63,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std798,48,81,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std799,64,60,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std800,61,79,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std801,70,60,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std802,12,46,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std803,39,61,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std804,33,61,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std805,58,84,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std806,66,74,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std807,54,68,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std808,59,80,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std809,62,60,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std810,64,70,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std811,37,31,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std812,52,58,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std813,64,62,FEN EDEBİYAT FAKÜLTESİ,Tarih
+std814,84,72,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std815,96,60,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std816,88,68,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std817,76,84,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std818,82,80,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std819,82,68,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std820,86,64,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std821,80,72,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std822,60,60,ZİRAAT FAKÜLTESİ,Bahçe Bitkileri
+std823,84,76,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std824,88,76,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std825,72,80,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std826,96,60,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std827,84,76,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std828,72,72,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std829,60,60,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std830,80,94,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std831,84,92,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std832,72,84,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std833,80,68,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std834,76,64,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std835,84,80,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std836,84,76,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std837,64,60,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std838,64,84,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std839,80,76,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std840,68,68,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std841,72,64,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std842,80,84,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std843,80,64,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std844,84,68,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std845,80,68,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std846,52,92,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std847,84,64,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std848,72,80,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std849,64,80,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std850,68,72,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std851,72,80,ZİRAAT FAKÜLTESİ,Bitki Koruma
+std852,88,100,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std853,80,46,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std854,84,86,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std855,96,90,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std856,76,94,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std857,70,94,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std858,88,70,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std859,68,70,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std860,60,74,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std861,92,94,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std862,64,84,ZİRAAT FAKÜLTESİ,Tarla Bitkileri
+std863,72,60,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std864,80,84,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std865,84,80,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std866,96,84,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std867,88,68,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std868,80,72,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std869,84,80,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std870,72,68,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std871,76,76,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std872,64,80,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std873,72,62,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std874,88,52,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std875,60,60,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std876,64,60,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std877,84,44,ZİRAAT FAKÜLTESİ,Tarım Ekonomisi
+std878,85,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std879,80,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std880,65,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std881,60,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std882,60,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std883,85,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std884,55,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std885,85,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std886,80,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std887,70,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std888,80,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std889,45,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std890,45,70,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std891,60,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std892,80,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std893,60,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std894,60,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std895,45,70,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İktisat
+std896,100,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std897,85,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std898,85,88,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std899,90,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std900,100,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std901,100,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std902,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std903,100,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std904,85,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std905,95,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std906,95,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std907,100,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std908,95,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std909,95,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std910,90,44,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std911,100,44,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std912,75,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std913,45,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std914,60,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std915,90,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std916,100,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std917,100,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std918,65,70,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std919,100,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std920,95,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std921,100,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std922,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std923,85,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std924,100,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std925,100,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std926,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std927,90,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std928,70,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std929,45,70,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std930,100,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std931,100,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std932,80,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std933,80,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std934,100,88,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std935,95,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std936,95,85,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std937,75,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std938,95,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std939,100,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std940,90,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std941,65,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std942,90,40,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std943,40,74,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std944,90,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std945,70,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std946,90,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std947,70,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std948,85,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std949,90,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std950,40,36,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std951,45,24,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std952,15,28,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Maliye
+std953,100,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std954,90,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std955,100,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std956,70,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std957,75,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std958,75,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std959,85,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std960,70,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std961,70,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std962,60,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std963,70,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std964,60,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std965,50,70,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std966,10,98,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std967,35,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std968,90,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std969,85,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std970,90,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std971,95,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,İşletme
+std972,45,75,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std973,45,36,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std974,15,95,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std975,55,65,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std976,25,85,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std977,75,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std978,70,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std979,100,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std980,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std981,80,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std982,85,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std983,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std984,75,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std985,90,84,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std986,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std987,100,84,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std988,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std989,100,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std990,85,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std991,85,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std992,100,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std993,80,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std994,90,88,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std995,80,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std996,90,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std997,90,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std998,80,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std999,90,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1000,80,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1001,80,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1002,80,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1003,90,84,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1004,55,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1005,100,40,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1006,65,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1007,100,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1008,100,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1009,100,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1010,100,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1011,85,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1012,80,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1013,100,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1014,85,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1015,45,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1016,100,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1017,85,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1018,100,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1019,80,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1020,80,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1021,85,44,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1022,65,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1023,55,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1024,100,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1025,100,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1026,45,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1027,45,44,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1028,90,80,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1029,75,70,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1030,90,40,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1031,90,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1032,80,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1033,70,60,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1034,85,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1035,70,55,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1036,75,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1037,85,48,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1038,75,52,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1039,35,77,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1040,50,72,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1041,70,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1042,50,28,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1043,95,76,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1044,100,40,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1045,90,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1046,70,68,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1047,100,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1048,100,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1049,90,84,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1050,100,56,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1051,70,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1052,90,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Siyaset Bilimi ve Kamu Yönetimi
+std1053,85,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std1054,25,28,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std1055,70,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std1056,55,66,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std1057,20,24,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce)
+std1058,80,64,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Uluslararası İlişkiler (%30 İngilizce) (İÖ)
+std1059,100,88,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1060,100,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1061,50,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1062,65,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1063,75,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1064,65,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1065,95,60,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1066,70,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1067,80,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1068,95,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1069,90,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1070,50,92,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1071,100,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1072,100,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1073,45,70,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1074,75,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1075,85,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1076,75,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1077,80,56,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1078,90,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1079,90,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1080,80,60,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1081,90,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1082,100,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1083,60,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1084,100,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1085,80,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1086,55,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1087,100,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1088,100,84,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1089,85,48,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1090,85,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1091,80,60,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1092,70,56,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1093,100,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1094,100,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1095,100,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1096,100,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1097,80,52,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1098,70,56,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1099,80,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1100,65,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1101,100,84,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1102,100,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1103,100,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1104,100,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1105,90,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1106,70,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1107,100,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1108,100,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1109,50,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1110,85,56,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1111,35,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1112,65,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1113,60,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1114,20,87,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1115,35,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1116,75,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1117,35,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1118,30,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1119,35,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1120,80,88,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1121,75,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Bilgisayar Mühendisliği
+std1122,100,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1123,80,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1124,100,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1125,50,84,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1126,50,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1127,75,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1128,55,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1129,80,56,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1130,80,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1131,100,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1132,85,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1133,100,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1134,65,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1135,10,24,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1136,20,88,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1137,45,70,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1138,30,84,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1139,10,16,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1140,60,72,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1141,80,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1142,100,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Elektrik Elektronik Mühendisliği
+std1143,100,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1144,90,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1145,55,48,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1146,80,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1147,100,68,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1148,100,60,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1149,100,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1150,35,24,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1151,25,84,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1152,40,75,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1153,55,75,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1154,30,80,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1155,40,20,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1156,35,24,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1157,65,65,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1158,75,60,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,İnşaat Mühendisliği
+std1159,65,64,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Makine Mühendisliği
+std1160,40,24,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Makine Mühendisliği
+std1161,55,24,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Makine Mühendisliği
+std1162,55,70,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Makine Mühendisliği
+std1163,40,76,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Makine Mühendisliği
+std1164,40,75,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Makine Mühendisliği
+std1165,60,60,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Makine Mühendisliği
+std1166,85,44,MÜHENDİSLİK-MİMARLIK FAKÜLTESİ,Makine Mühendisliği (İÖ)
+std1167,68,65,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Halı-Kilim ve Eski Türk Kumaşları
+std1168,72,60,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Halı-Kilim ve Eski Türk Kumaşları
+std1169,96,90,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Halı-Kilim ve Eski Türk Kumaşları
+std1170,56,80,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1171,76,50,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1172,92,80,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1173,88,75,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1174,52,92,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1175,52,94,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1176,76,100,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1177,68,93,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1178,60,94,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1179,100,90,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1180,76,85,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1181,64,70,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1182,64,70,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1183,68,94,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1184,76,85,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1185,76,75,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1186,60,80,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1187,72,75,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1188,72,55,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1189,60,70,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1190,52,80,NEŞET ERTAŞ GÜZEL SANATLAR FAKÜLTESİ,Müzik
+std1191,79,79,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1192,85,67,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1193,73,57,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1194,82,79,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1195,76,70,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1196,82,66,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1197,50,70,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1198,62,65,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1199,70,68,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1200,54,70,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1201,70,79,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1202,76,58,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1203,74,61,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1204,62,76,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1205,76,76,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1206,70,65,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1207,82,80,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1208,70,64,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1209,67,65,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1210,71,68,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1211,76,70,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1212,64,85,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1213,65,63,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1214,61,53,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1215,70,70,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1216,71,76,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1217,85,74,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1218,55,67,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1219,57,79,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1220,70,64,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1221,67,79,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1222,70,73,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1223,82,63,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1224,70,64,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1225,58,76,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1226,77,67,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1227,73,67,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1228,79,76,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1229,54,85,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1230,79,80,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1231,64,79,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1232,50,67,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1233,62,79,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1234,67,47,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1235,62,64,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1236,75,74,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1237,73,55,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1238,50,68,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1239,73,61,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1240,60,54,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1241,48,76,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1242,76,67,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1243,88,73,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1244,73,67,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1245,60,60,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1246,82,82,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1247,60,68,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1248,88,82,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1249,69,79,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1250,51,69,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1251,85,67,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1252,68,71,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1253,62,61,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1254,74,50,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1255,76,67,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1256,56,52,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1257,45,57,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1258,83,71,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1259,52,53,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1260,48,49,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1261,51,69,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1262,58,65,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1263,55,64,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1264,52,70,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1265,59,70,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1266,64,62,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1267,68,61,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1268,79,70,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1269,59,64,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1270,82,82,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1271,60,79,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1272,54,73,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1273,79,48,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1274,73,56,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1275,62,58,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1276,64,68,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1277,73,76,İSLAMİ İLİMLER FAKÜLTESİ,İslami İlimler
+std1278,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1279,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1280,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1281,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1282,96,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1283,100,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1284,80,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1285,92,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1286,88,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1287,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1288,88,78,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1289,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1290,84,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1291,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1292,84,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1293,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1294,92,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1295,88,82,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1296,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1297,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1298,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1299,88,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1300,88,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1301,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1302,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1303,76,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1304,72,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1305,96,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1306,84,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1307,84,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1308,84,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1309,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1310,100,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1311,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1312,76,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1313,88,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1314,92,85,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1315,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1316,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1317,100,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1318,84,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1319,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1320,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1321,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1322,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1323,84,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1324,92,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1325,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1326,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1327,96,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1328,92,85,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1329,96,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1330,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1331,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1332,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1333,92,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1334,96,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1335,92,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1336,68,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1337,64,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1338,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1339,88,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1340,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1341,96,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1342,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1343,88,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1344,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1345,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1346,80,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1347,76,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1348,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1349,76,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1350,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1351,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1352,96,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1353,68,64,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1354,80,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1355,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1356,84,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1357,88,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1358,92,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1359,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1360,80,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1361,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1362,88,68,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1363,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1364,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1365,68,91,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1366,64,64,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1367,60,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1368,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1369,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1370,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1371,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1372,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1373,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1374,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1375,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1376,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1377,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1378,48,68,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1379,48,48,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1380,72,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1381,40,73,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1382,68,64,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1383,36,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1384,64,60,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1385,72,68,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1386,60,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1387,52,65,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1388,76,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik
+std1389,100,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1390,92,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1391,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1392,72,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1393,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1394,76,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1395,92,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1396,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1397,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1398,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1399,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1400,72,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1401,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1402,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1403,100,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1404,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1405,96,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1406,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1407,92,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1408,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1409,100,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1410,92,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1411,76,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1412,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1413,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1414,80,64,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1415,84,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1416,92,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1417,96,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1418,92,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1419,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1420,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1421,100,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1422,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1423,92,85,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1424,84,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1425,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1426,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1427,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1428,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1429,84,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1430,100,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1431,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1432,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1433,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1434,92,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1435,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1436,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1437,88,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1438,96,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1439,80,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1440,88,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1441,88,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1442,88,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1443,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Hemşirelik (İ.Ö)
+std1444,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1445,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1446,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1447,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1448,100,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1449,88,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1450,80,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1451,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1452,96,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1453,92,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1454,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1455,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1456,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1457,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1458,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1459,96,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1460,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1461,64,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1462,88,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1463,84,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1464,72,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1465,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1466,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1467,84,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1468,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1469,80,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1470,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1471,76,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1472,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1473,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1474,88,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1475,84,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1476,96,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1477,92,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1478,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1479,92,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1480,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1481,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1482,88,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1483,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1484,96,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1485,92,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1486,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1487,84,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1488,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1489,92,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1490,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1491,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1492,96,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1493,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1494,92,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1495,84,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1496,84,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1497,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1498,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1499,92,85,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1500,92,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1501,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1502,84,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1503,96,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1504,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1505,96,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1506,96,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1507,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1508,92,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1509,100,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1510,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1511,76,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1512,80,60,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1513,52,65,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1514,48,68,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1515,40,73,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1516,40,73,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1517,56,65,SAĞLIK BİLİMLERİ FAKÜLTESİ,Ebelik
+std1518,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1519,96,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1520,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1521,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1522,92,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1523,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1524,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1525,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1526,96,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1527,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1528,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1529,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1530,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1531,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1532,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1533,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1534,92,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1535,92,86,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1536,92,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1537,80,93,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1538,96,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1539,96,72,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1540,84,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1541,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1542,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1543,68,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1544,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1545,84,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1546,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1547,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1548,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1549,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1550,88,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1551,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1552,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1553,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1554,88,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1555,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1556,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1557,100,96,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1558,100,92,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1559,68,81,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1560,100,76,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1561,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1562,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1563,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1564,100,100,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1565,88,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1566,84,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1567,100,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1568,88,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1569,100,84,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1570,100,88,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1571,60,60,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1572,36,80,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1573,56,64,SAĞLIK BİLİMLERİ FAKÜLTESİ,Çocuk Gelişimi
+std1574,64,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1575,69,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1576,89,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1577,86,82,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1578,89,88,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1579,70,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1580,77,79,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1581,51,66,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1582,31,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1583,86,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1584,86,85,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1585,80,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1586,83,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1587,54,53,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1588,75,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1589,83,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1590,68,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1591,81,66,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1592,64,76,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1593,80,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1594,68,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1595,92,82,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1596,87,52,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1597,84,74,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1598,58,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1599,46,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1600,89,76,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1601,61,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1602,74,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1603,89,79,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1604,80,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1605,37,38,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1606,75,71,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1607,89,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1608,83,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1609,82,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1610,80,88,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1611,87,51,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1612,50,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1613,62,71,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1614,57,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1615,68,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1616,77,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1617,47,27,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1618,60,42,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1619,59,71,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1620,61,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Beden Eğitimi ve Spor Öğretmenliği
+std1621,51,39,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1622,68,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1623,74,55,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1624,89,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1625,80,55,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1626,75,60,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1627,75,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1628,80,62,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1629,62,59,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1630,75,55,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1631,77,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1632,43,51,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1633,67,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1634,72,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1635,71,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1636,70,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1637,89,52,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1638,52,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1639,53,54,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1640,49,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1641,57,66,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1642,71,51,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1643,52,46,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1644,69,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1645,86,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1646,80,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1647,61,71,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1648,75,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1649,80,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1650,61,59,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1651,86,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1652,77,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1653,75,57,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1654,74,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1655,37,33,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1656,65,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1657,68,55,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1658,64,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1659,75,54,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1660,77,62,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1661,84,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1662,55,65,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1663,84,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1664,55,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1665,84,46,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1666,68,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1667,58,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1668,69,55,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1669,83,51,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1670,66,57,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1671,74,52,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1672,71,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1673,70,57,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1674,72,51,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1675,71,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1676,55,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1677,25,33,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1678,42,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1679,45,53,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1680,28,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1681,37,25,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Antrenörlük Eğitimi
+std1682,55,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1683,52,66,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1684,66,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1685,71,57,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1686,63,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1687,58,62,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1688,86,79,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1689,74,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1690,89,73,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1691,66,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1692,72,55,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1693,87,65,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1694,64,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1695,89,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1696,72,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1697,75,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1698,65,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1699,68,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1700,81,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1701,78,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1702,52,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1703,64,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1704,64,36,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1705,70,56,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1706,63,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1707,49,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1708,52,66,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1709,81,76,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1710,75,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1711,75,62,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1712,45,71,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1713,71,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1714,64,79,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1715,69,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1716,78,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1717,69,51,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1718,65,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1719,72,58,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1720,87,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1721,62,65,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1722,77,67,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1723,61,33,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1724,71,61,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1725,82,64,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1726,81,62,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1727,75,50,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1728,74,65,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1729,74,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1730,75,53,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1731,83,79,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1732,49,53,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1733,61,33,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1734,48,70,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1735,51,49,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1736,55,42,BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Spor Yöneticiliği
+std1737,88,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1738,84,96,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1739,100,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1740,100,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1741,100,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1742,100,84,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1743,100,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1744,100,96,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1745,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1746,100,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1747,96,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1748,84,60,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1749,92,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1750,88,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1751,96,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1752,96,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1753,100,96,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1754,100,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1755,80,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1756,84,72,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1757,84,72,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1758,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1759,100,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1760,96,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1761,96,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1762,76,68,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1763,100,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1764,84,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1765,88,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1766,100,72,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1767,100,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1768,92,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1769,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1770,76,96,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1771,100,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1772,84,84,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1773,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1774,100,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1775,100,96,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1776,80,64,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1777,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1778,84,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1779,84,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1780,84,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1781,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1782,96,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1783,100,84,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1784,84,64,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1785,100,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1786,84,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1787,100,84,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1788,96,83,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1789,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1790,92,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1791,100,84,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1792,76,86,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1793,100,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1794,100,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1795,92,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1796,100,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1797,64,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1798,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1799,76,68,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1800,76,76,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1801,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1802,76,96,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1803,84,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1804,68,68,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1805,100,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1806,92,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1807,84,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1808,88,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1809,100,84,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1810,100,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1811,76,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1812,64,76,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1813,44,70,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1814,64,85,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1815,68,72,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1816,64,84,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1817,52,65,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1818,80,76,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1819,52,92,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1820,44,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1821,72,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1822,90,100,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1823,88,84,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1824,84,80,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1825,88,68,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1826,80,88,FİZİK TEDAVİ VE REHABİLİTASYON YÜKSEKOKULU,Fizyoterapi ve Rehabilitasyon
+std1827,50,80,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1828,75,76,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1829,73,100,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1830,70,96,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1831,80,84,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1832,54,80,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1833,70,68,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1834,45,70,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1835,46,80,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1836,65,64,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1837,68,64,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1838,55,76,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1839,75,52,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1840,46,69,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1841,70,72,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1842,45,70,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1843,62,84,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1844,56,80,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1845,55,72,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1846,60,60,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1847,55,68,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1848,47,88,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1849,62,80,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1850,70,84,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1851,60,60,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1852,56,76,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1853,56,62,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
+std1854,56,92,KAMAN UYGULAMALI BİLİMLER YÜKSEKOKULU,Yönetim Bilişim Sistemleri
